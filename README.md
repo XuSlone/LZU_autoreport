@@ -11,3 +11,5 @@ python3 autoreport2.py 邮箱前缀 密码
 
 如:
 python3 autoreport2.py zhangsan19 zhang200109
+
+通过和crontab配合使用可以实现定时自动打卡
